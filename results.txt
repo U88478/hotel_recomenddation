@@ -1,0 +1,102 @@
+Insertion Sort by Hotel Rating in 0.010019s
+
+Country at Heart Bed & Breakfast - 5.0 
+Holman's Heritage Suites - 5.0 
+Schurmans Shore Waterfront Cottages - 5.0 
+Cavendish Maples Cottages - 5.0 
+Fairways Cottages - 5.0 
+Montgomery Cavendish Cottages - 5.0 
+Le Giron de L'Isle - 5.0 
+Les Ancetres - 5.0 
+Gîte Au Tournant de l'Ile d'Orleans - 5.0 
+Best Western Plus Sawridge Suites - 5.0 
+Chez Dube Country Inn - 5.0 
+Elmwood Heritage Inn - 5.0 
+Evergreen B & B - 5.0 
+Barb's Bed and Breakfast : the-3-bees - 5.0 
+Seaway Manor Bed and Breakfast - 5.0 
+Turtle Island Bed and Breakfast - 5.0 
+1000 Islands Bed and Breakfast - The Bulloch House - 5.0 
+Absolute 1000 Islands Suites - 5.0 
+Howe Island B&B - 5.0 
+Beaver Hall B&B - 5.0 
+Horseblock Point Cottages - 5.0 
+Willowbank Motor Court - 5.0 
+Gite Pantoufles et Pamplemousse - 5.0 
+Auberge Le Papillon Sauvage - 5.0 
+Knightswood Bed and Breakast & Carriage House - 5.0 
+Courtyard by Marriott Halifax Dartmouth - 5.0 
+Still Waters B&B - 5.0 
+Breaside Court Bed & Breakfast - 5.0 
+Autumn Leaves Bed & Breakfast - 5.0 
+Arbor Vista Bed & Breakfast Dartmouth - 5.0 
+Roosters Glen Bed & Breakfast - 5.0 
+Kenora B&B - 5.0 
+BROOKSIDE INN Boutique Hotel - 5.0 
+Sweet Dreams Luxury Inn - 5.0 
+Clayburn Village Bed and Breakfast - 5.0 
+Everett House Bed & Breakfast - 5.0 
+Country Charm Bed & Breakfast - 5.0 
+Wee Irish Bed & Breakfast - 5.0 
+MARK Centre Abbotsford Chalet - 5.0 
+Cloudside Hotel - 5.0 
+Mistiso's Place Vacation Rentals - 5.0 
+Willow Point Beach House - 5.0 
+Beach Taghum B&B - 5.0 
+Radius - 5.0 
+Nipika Mountain Resort - 5.0 
+Radium Elk Park B & B - 5.0 
+Charles Street Suites - 5.0 
+Three Wishes B&B - 5.0 
+Clydesdale House - 5.0 
+Parkside House - 5.0 
+Brobst Forest Bed and Breakfast - 5.0 
+Tree Tops Bed & Breakfast - 5.0 
+Sequoia House Bed & Breakfast - 5.0 
+Inntorestin B&B - 5.0 
+Strathcona Street Bed and Breakfast - 5.0 
+The Roses Bed & Breakfast - 5.0 
+By the Quay Bed & Breakfast - 5.0 
+Cedar Heights Bed and Breakfast - 5.0 
+Harvelle House Bed & Breakfast - 5.0 
+Dogwood Bed and Breakfast - 5.0 
+Blue Iris B and B - 5.0 
+Sundial Bed & Breakfast - 5.0 
+Harvest Moon Guest House - 5.0 
+Apples and Quails Bed & Breakfast - 5.0 
+La Punta Norte Guest House - 5.0 
+Front Bench Bed & Breakfast - 5.0 
+Snooze and Cruise Inn - 5.0 
+Glenoka Farm Bed and Breakfast - 5.0 
+Tethered Lamb Vineyard and Guesthouse - 5.0 
+Jewell Guest Ranch - 5.0 
+Country Tyme Bed & Breakfast - 5.0 
+The Willows B&B - 5.0 
+Vista Ranch Bed & Breakfast - 5.0 
+Creighton Manor Inn Bed and Breakfast - 5.0 
+A Seafaring Maiden Bed and Breakfast - 5.0 
+Hillsdale House Inn - 5.0 
+Queen Anne Inn - 5.0 
+Tranquil Times B&B - 5.0 
+Grand Oak Manor Bed & Breakfast - 5.0 
+Granvalley Bed & Breakfast - 5.0 
+Still Point Lodge & Cottages - 5.0 
+A View With A Room Bed & Breakfast - 5.0 
+The Cottages on Swallow Hill - 5.0 
+Rosewood Bed & Breakfast - 5.0 
+Tranquil Thyme Bed and Breakfast - 5.0 
+Country Cottage Bed & Breakfast - 5.0 
+OceanLook Bed and Breakfast - 5.0 
+Eagle's Nest B&B - 5.0 
+Forest Hill Bed and Breakfast - 5.0 
+Frederick Street Inn - 5.0 
+Highlands B&B - 5.0 
+Evening Sail B&B - 5.0 
+The Tartan Inn - 5.0 
+Inned of the Rainbow - 5.0 
+Home2 Suites by Hilton Fort St John - 5.0 
+Paradis Bleu - 5.0 
+Les Appartements Cyrco - 5.0 
+Camping de Gros-Cap - 5.0 
+Alpenglow Bed and Breakfast - 5.0 
+North Star Motel - 5.0 
