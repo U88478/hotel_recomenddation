@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>MainWindow</class>
+    <widget class="QMainWindow" name="MainWindow">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>800</width>
+                <height>600</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>Hotel Recommender</string>
+        </property>
+        <widget class="QWidget" name="centralwidget">
+            <layout class="QHBoxLayout" name="horizontalMainLayout">
+                <item>
+                    <layout class="QVBoxLayout" name="verticalLayout">
+                        <item>
+                            <widget class="QGroupBox" name="sortGroupBox">
+                                <property name="title">
+                                    <string>Sort Controls</string>
+                                </property>
+                                <layout class="QHBoxLayout" name="horizontalLayout">
+                                    <item>
+                                        <widget class="QComboBox" name="SortComboBox">
+                                            <item>
+                                                <property name="text">
+                                                    <string>Insertion Sort</string>
+                                                </property>
+                                            </item>
+                                            <item>
+                                                <property name="text">
+                                                    <string>Selection Sort</string>
+                                                </property>
+                                            </item>
+                                            <item>
+                                                <property name="text">
+                                                    <string>Bubble Sort</string>
+                                                </property>
+                                            </item>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QComboBox" name="PropertiesComboBox">
+                                            <item>
+                                                <property name="text">
+                                                    <string>Hotel Rating</string>
+                                                </property>
+                                            </item>
+                                            <item>
+                                                <property name="text">
+                                                    <string>Hotel Experience</string>
+                                                </property>
+                                            </item>
+                                            <item>
+                                                <property name="text">
+                                                    <string>Amenities</string>
+                                                </property>
+                                            </item>
+                                            <item>
+                                                <property name="text">
+                                                    <string>Price</string>
+                                                </property>
+                                            </item>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QPushButton" name="SortButton">
+                                            <property name="text">
+                                                <string>Sort</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                    <item>
+                                        <widget class="QPushButton" name="DownloadButton">
+                                            <property name="text">
+                                                <string>Download</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                </layout>
+                            </widget>
+                        </item>
+                        <item>
+                            <layout class="QHBoxLayout" name="executionLayout">
+                                <item>
+                                    <widget class="QLabel" name="ExecutionLabel">
+                                        <property name="text">
+                                            <string>Execution Time:</string>
+                                        </property>
+                                    </widget>
+                                </item>
+                            </layout>
+                        </item>
+                        <item>
+                            <widget class="QTextBrowser" name="results">
+                                <property name="minimumSize">
+                                    <size>
+                                        <width>0</width>
+                                        <height>300</height>
+                                    </size>
+                                </property>
+                            </widget>
+                        </item>
+                    </layout>
+                </item>
+                <item>
+                    <widget class="QScrollArea" name="scrollArea">
+                        <property name="widgetResizable">
+                            <bool>true</bool>
+                        </property>
+                        <property name="maximumSize">
+                            <size>
+                                <width>200</width>
+                                <height>600</height>
+                            </size>
+                        </property>
+                        <widget class="QWidget" name="scrollAreaWidgetContents">
+                            <layout class="QVBoxLayout" name="scrollAreaLayout">
+                                <item>
+                                    <widget class="QGroupBox" name="amenitiesGroupBox">
+                                        <property name="title">
+                                            <string>Amenities</string>
+                                        </property>
+                                        <layout class="QVBoxLayout" name="amenitiesLayout"/>
+                                    </widget>
+                                </item>
+                            </layout>
+                        </widget>
+                    </widget>
+                </item>
+            </layout>
+        </widget>
+        <widget class="QStatusBar" name="statusbar"/>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>
